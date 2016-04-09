@@ -1,2 +1,0 @@
-# suzerui.github.io
-blog
